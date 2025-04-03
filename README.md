@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/NISSAN40499/Business-Insight-360-Project-for-AtliQ-Hardware-s/blob/main/Logo%20%7C%7C%20Template%20%7C%7C%20PNG%20%7C%7C%20Images/AtliQ-Logo-2.png" width="150">
+</p>
+
 # Hospitality-Revenue-Analysis-for-AtliQ-Grands
 
 The **Hospitality Revenue Analysis** project aims to provide **AtliQ Grands** with data-driven insights to enhance revenue management and regain its competitive edge in the luxury and business hotel sector.  
