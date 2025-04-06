@@ -1,4 +1,6 @@
-https://github.com/NISSAN40499/Hospitality-Revenue-Analysis-for-AtliQ-Grands/blob/main/Logo%20%7C%20Template%20%7C%20Illustrations/Project%20Charter.png
+<p align="center">
+  <img src="https://github.com/NISSAN40499/Hospitality-Revenue-Analysis-for-AtliQ-Grands/blob/main/Logo%20%7C%20Template%20%7C%20Illustrations/Project%20Charter.png" width="850">
+</p>
 
 ---
 
