@@ -35,7 +35,16 @@ Through interactive visualizations and in-depth reporting, this project will ser
 
 ## 📁 Project Structure
 
-
+Hospitality-Revenue-Dashboard/
+│
+├── 📁 Logo_Template_Illustrations/   → Logos, templates, and visual assets
+├── 📁 Mockups/                       → Dashboard mockup (Hotel - My version)
+│
+├── 📄 LICENSE                        → Open-source license information
+├── 📄 Problem Statement & Metadata.md  → Problem overview and dataset context
+├── 📄 Project Charter Discussion Meeting.md → Project planning notes
+├── 📄 Stakeholder meeting.md         → Stakeholder goals and expectations
+├── 📄 README.md                      → This file – your project’s showcase
 
 
 ---
