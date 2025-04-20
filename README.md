@@ -2,6 +2,15 @@
   <img src="https://github.com/NISSAN40499/Hospitality-Revenue-Analysis-for-AtliQ-Grands/blob/main/Logo%20%7C%20Template%20%7C%20Illustrations/AtliQ%20Grand.png" width="150">
 </p>
 
+
+---
+---
+
+<p align="center">
+  <img src="https://github.com/NISSAN40499/Hospitality-Revenue-Analysis-for-AtliQ-Grands/blob/main/Dashboard%20Images/For%20FB.png" width="550">
+</p>
+
+
 # Hospitality Revenue Analysis-for AtliQ Grands
 
 The **Hospitality Revenue Analysis** project aims to provide **AtliQ Grands** with data-driven insights to enhance revenue management and regain its competitive edge in the luxury and business hotel sector.  
